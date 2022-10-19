@@ -1,0 +1,34 @@
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CorePresentation.deps.json
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CorePresentation.dll
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CorePresentation.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CoreBusiness.dll
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CoreData.dll
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CoreEntity.dll
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CoreBusiness.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CoreData.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\bin\Debug\netcoreapp3.1\CoreEntity.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.csproj.AssemblyReference.cache
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.AssemblyInfoInputs.cache
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.AssemblyInfo.cs
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.csproj.CoreCompileInputs.cache
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.csproj.CopyComplete
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.dll
+D:\BHOOMIKA\C#\CoreAssignment\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CorePresentation.deps.json
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CorePresentation.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CorePresentation.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CoreBusiness.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CoreData.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CoreEntity.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CoreBusiness.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CoreData.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\bin\Debug\netcoreapp3.1\CoreEntity.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.csproj.AssemblyReference.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.AssemblyInfoInputs.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.AssemblyInfo.cs
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.csproj.CoreCompileInputs.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.csproj.CopyComplete
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CorePresentation\obj\Debug\netcoreapp3.1\CorePresentation.pdb
