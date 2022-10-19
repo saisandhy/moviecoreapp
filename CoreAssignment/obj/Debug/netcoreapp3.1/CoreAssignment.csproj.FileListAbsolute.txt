@@ -1,0 +1,142 @@
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.exe
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.deps.json
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.runtimeconfig.json
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.runtimeconfig.dev.json
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.csproj.AssemblyReference.cache
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.AssemblyInfoInputs.cache
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.AssemblyInfo.cs
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.csproj.CoreCompileInputs.cache
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.genruntimeconfig.cache
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreBusiness.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreData.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreEntity.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CorePresentation.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreData.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreEntity.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CorePresentation.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\bin\Debug\netcoreapp3.1\CoreBusiness.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.csproj.CopyComplete
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.exe
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.deps.json
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.runtimeconfig.json
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.runtimeconfig.dev.json
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreAssignment.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreBusiness.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreData.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreEntity.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CorePresentation.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreData.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreEntity.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CorePresentation.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\bin\Debug\netcoreapp3.1\CoreBusiness.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.csproj.AssemblyReference.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.AssemblyInfoInputs.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.AssemblyInfo.cs
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.csproj.CoreCompileInputs.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.csproj.CopyComplete
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreAssignment\obj\Debug\netcoreapp3.1\CoreAssignment.genruntimeconfig.cache
