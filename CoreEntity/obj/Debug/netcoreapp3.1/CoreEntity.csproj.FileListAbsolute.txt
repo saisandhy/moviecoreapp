@@ -1,0 +1,26 @@
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.deps.json
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.runtimeconfig.json
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.runtimeconfig.dev.json
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.csproj.AssemblyReference.cache
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.AssemblyInfoInputs.cache
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.AssemblyInfo.cs
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.csproj.CoreCompileInputs.cache
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.dll
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.pdb
+D:\BHOOMIKA\C#\CoreAssignment\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.genruntimeconfig.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.deps.json
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.runtimeconfig.json
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.runtimeconfig.dev.json
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\bin\Debug\netcoreapp3.1\CoreEntity.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.csproj.AssemblyReference.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.AssemblyInfoInputs.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.AssemblyInfo.cs
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.csproj.CoreCompileInputs.cache
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.dll
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.pdb
+C:\Users\sandhya.sai\Downloads\CoreAssignment - Copy\CoreAssignment - Copy\CoreEntity\obj\Debug\netcoreapp3.1\CoreEntity.genruntimeconfig.cache
